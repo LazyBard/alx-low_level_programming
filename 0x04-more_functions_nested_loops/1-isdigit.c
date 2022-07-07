@@ -1,15 +1,10 @@
 #include "main.h"
-
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * _isdigit - Entry Point
+ * @c : the checked character
+ * Return:1 0r 0
  */
-int main(void)
+int _isdigit(int c)
 {
-    print_triangle(2);
-    print_triangle(10);
-    print_triangle(1);
-    print_triangle(0);
-    return (0);
+	return (((c > 47 && c < 58)) ? 1 : 0);
 }
