@@ -1,20 +1,3 @@
-
-Natnaelk
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-More
-alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-@Natnaelk
-Natnaelk n
- History
- 1 contributor
-46 lines (44 sloc)  759 Bytes
 #include "main.h"
 /**
   * _strlen - length of a string
